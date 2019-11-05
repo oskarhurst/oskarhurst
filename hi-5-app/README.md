@@ -1,11 +1,5 @@
-# Sample Snack app
+# Hi-5-App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+This is an app front end which I developed in react native. The purpose of the app is the help orginize service projects and reward service project participants. Feel free to run the code at test the ui of the app for your self at snack.expo.io, once on the website create a new snack and import this git repository and you are good to go for testing the app for your self.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+This project was made for the calHacks 6.0 hackathon. For more information view our dev post at https://devpost.com/software/hifive-bringing-communities-together-h6wvnl. and to view the git hub repositiory for the whole project not just the UI and front end visit https://github.com/lazyplatypus/hifive.
