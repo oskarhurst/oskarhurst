@@ -1,4 +1,4 @@
-# Hi-5-App
+# Hi-5 React Native App
 
 This is an app front end which I developed in react native. The purpose of the app is the help orginize service projects and reward service project participants. Feel free to run the code at test the ui of the app for your self at snack.expo.io, once on the website create a new snack and import this git repository and you are good to go for testing the app for your self.
 
